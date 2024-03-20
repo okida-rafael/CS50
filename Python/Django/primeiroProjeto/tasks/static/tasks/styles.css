@@ -1,0 +1,15 @@
+h1 {
+    text-align: center;
+    color: blueviolet;
+    font-size: 100px;
+}
+
+ul {
+    text-align: center;
+}
+
+li {
+    width: 200px;
+    margin: auto;
+    font-size: 35px;
+}
